@@ -1,0 +1,6 @@
+C:\Users\Učenik 4\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\bin\Debug\cvekŠpraljaJakovNasljeđivanje.exe.config
+C:\Users\Učenik 4\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\bin\Debug\cvekŠpraljaJakovNasljeđivanje.exe
+C:\Users\Učenik 4\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\bin\Debug\cvekŠpraljaJakovNasljeđivanje.pdb
+C:\Users\Učenik 4\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\obj\Debug\cvekŠpraljaJakovNasljeđivanje.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\obj\Debug\cvekŠpraljaJakovNasljeđivanje.exe
+C:\Users\Učenik 4\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\obj\Debug\cvekŠpraljaJakovNasljeđivanje.pdb
